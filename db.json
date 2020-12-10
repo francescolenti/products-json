@@ -1,5 +1,10 @@
 { 
   "products" : [
-  { "id": 1, "name": "Orecchini d'oro", "price" : 500, "description": "Orecchini 18 carati", "image": "https://x.cloudsdata.net/f5/images/products/large/583b19361fb6f_orecchini-2.JPG"}
+  { "id": 1, "name": "Orecchini d'oro", "price" : 500, "description": "Orecchini 18 carati", "image": "https://x.cloudsdata.net/f5/images/products/large/583b19361fb6f_orecchini-2.JPG"},
+  { "id": 2, "name": "Orecchini d'argento", "price" : 400, "description": "Orecchini argento puro", "image": "https://x.cloudsdata.net/f5/images/products/large/583b19361fb6f_orecchini-2.JPG"},
+  { "id": 3, "name": "Bracciale d'oro", "price" : 600, "description": "Bracciale 18 carati", "image": "https://x.cloudsdata.net/f5/images/products/large/583b19361fb6f_orecchini-2.JPG"},
+  { "id": 4, "name": "Anello d'oro", "price" : 200, "description": "Anello 18 carati", "image": "https://x.cloudsdata.net/f5/images/products/large/583b19361fb6f_orecchini-2.JPG"},
+  { "id": 5, "name": "Bracciale d'argento", "price" : 200, "description": "Bracciale di argento puro", "image": "https://x.cloudsdata.net/f5/images/products/large/583b19361fb6f_orecchini-2.JPG"},
+  { "id": 6, "name": "Orologio d'oro", "price" : 700, "description": "Orologio 18 carati", "image": "https://x.cloudsdata.net/f5/images/products/large/583b19361fb6f_orecchini-2.JPG"}
 ]
 }
